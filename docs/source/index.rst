@@ -6,7 +6,7 @@ backgrounds from different sources in the early Universe, focusing on the produc
 from sound waves and MHD turbulence from cosmological phase transitions.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to the project.
 
 .. note::
 
